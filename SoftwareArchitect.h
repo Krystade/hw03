@@ -13,7 +13,7 @@ using namespace std;
 
 #include "Employee.h"
 
-class SoftwareArchitect:Employee{
+class SoftwareArchitect:public Employee{
 public:
 	SoftwareArchitect();
 	SoftwareArchitect(string name, int id, string phone, int age, char gender, string title, int salary, Date* hireDate, int departmentNum, string supervisorName, double percentSalaryIncrease, int yearsExp);
