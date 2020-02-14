@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : hw03.cpp
 // Author      : Jack Schmid -- CS1C T/Th 3:30-5:50 -- Professor Kath
-// Description : Program to practice Friend Functions & Operator Overloading in C++, Ansi-style
+// Description : Program to practice Class Constructors, Inheritance & Init in C++, Ansi-style
 //============================================================================
 
 
